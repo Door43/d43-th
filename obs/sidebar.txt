@@ -1,11 +1,33 @@
 
 ----
 
-**[[th:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>th:obs:stories}}
+  * [[th:home|Door43 (th)]]
 
+**Resources**
+
+  * [[th:obs|Open Bible Stories (th)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-th|d43-th repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-th/archive/master.zip|d43-th.zip]]
+
+**Recent Changes**
+{{changes>ns = th}}
 
 **Latest Status**
 {{page>en:uwadmin:th:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/th|Ethnologue data]]
+
+**Resources**
+
+  * [[th:obs|Open Bible Stories (th)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:th:obs:status}}
