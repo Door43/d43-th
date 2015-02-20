@@ -1,7 +1,7 @@
 
 
   - [[:th:obs:01|<font inherit/inherit;;#008000;;inherit>การทรงสร้าง</font>    ]]
-  - [[:th:obs:02|<font inherit/inherit;;#008000;;inherit>ความบาปเข้ามาในโลก</font>    ]]
+  - [[:th:obs:|<font inherit/inherit;;#008000;;inherit>ความบาปเข้ามาในโลก</font>    ]]
   - [[:th:obs:03|The Flood]]
   - [[:th:obs:04|God's Covenant with Abraham]]
   - [[:th:obs:05|The Son of Promise]]
