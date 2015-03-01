@@ -4,7 +4,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?direct&}}
 
-หลังจากนั้นเป็นระยะยาวนาน มนุษย์จำนวนมากอาศัยอยู่บนโลกใบนี้ พวกเขามีความชั่วร้ายและโหดเหียม มันกลายเป็นสิ่งเลวร้าย และพระองค์ทรงตัดสินใจกวาดล้างโลกด้วยนำ้ท่วมครั้งยิ่งใหญ่
+หลังจากนั้นเป็นระยะเวลายาวนาน มนุษย์จำนวนมากอาศัยอยู่บนโลกใบนี้ พวกเขามีความชั่วร้ายและโหดเหียม มันกลายเป็นสิ่งเลวร้าย และพระองค์ทรงตัดสินใจกวาดล้างโลกด้วยนำ้ท่วมครั้งยิ่งใหญ่
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?direct&}}
 
@@ -37,7 +37,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?direct&}}
 
-หลังที่ฝนหยุดตกแล้ว<font 14px line-height: 19px/inherit;;inherit;;inherit>เรือลำนั้นก็ลอยบนผิวนำ้เป็นเวลา 5</font> เดือน<font 14px line-height: 19px/inherit;;inherit;;inherit></font> และนำ้ก็ค่อยๆลด<font 14px line-height: 19px/inherit;;inherit;;inherit>วันหนึ่งเรือได้ติดอยู่บนยอดภูเขาแห่งหนึ่ง</font> แต่นำ้ยังคงปกคลุมอยู่<font 14px line-height: 19px/inherit;;inherit;;inherit></font> หลัง<font 14px line-height: 19px/inherit;;inherit;;inherit>3</font> เดือนต่อมา<font 14px line-height: 19px/inherit;;inherit;;inherit>ยอดภูเขาอื่นๆก็สามารถมองเห็นได้</font>
+หลังที่ฝนหยุดตกแล้ว<font 14px line-height: 19px/inherit;;inherit;;inherit>เรือลำนั้นก็ลอยบนผิวนำ้เป็นเวลา 5</font>    เดือน และนำ้ก็ค่อยๆลด<font 14px line-height: 19px/inherit;;inherit;;inherit>วันหนึ่งเรือได้ติดอยู่บนยอดภูเขาแห่งหนึ่ง</font>    แต่นำ้ยังคงปกคลุมอยู่ หลัง<font 14px line-height: 19px/inherit;;inherit;;inherit>3</font>    เดือนต่อมา<font 14px line-height: 19px/inherit;;inherit;;inherit>ยอดภูเขาอื่นๆก็สามารถมองเห็นได้</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?direct&}}
 
@@ -45,7 +45,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?direct&}}
 
-ต่อมาโนอาห์<font 14px line-height: 19px;/inherit;;inherit;;inherit>ปล่อยนกพิราบตัวหนึ่งออกไปเช่นกันแต่ก็หาไม่พบ ดังนั้นมันจึงบินกลับมาหาโนอาห์ หนึ่งสัปดาห์ต่อโนอาห์ปล่อยนกพิราบออกไปอีกครั้งหนึ่ง เมื่อนกพิราบบินกลับมา มันคาบกิ่งใบมะกอกมาด้วยในปากของมัน โนอาห์จึงรู้ว่าน้ำลดลงจากแผ่นดินและต้นไม้ก็เจริญงอกงามอีกครั้งหนึ่ง</font>
+ต่อมาโนอาห์<font 14px line-height: 19px/inherit;;inherit;;inherit>ปล่อยนกพิราบตัวหนึ่งออกไปเช่นกันแต่ก็หาไม่พบ ดังนั้นมันจึงบินกลับมาหาโนอาห์ หนึ่งสัปดาห์ต่อโนอาห์ปล่อยนกพิราบออกไปอีกครั้งหนึ่ง เมื่อนกพิราบบินกลับมา มันคาบกิ่งใบมะกอกมาด้วยในปากของมัน โนอาห์จึงรู้ว่าน้ำลดลงจากแผ่นดินและต้นไม้ก็เจริญงอกงามอีกครั้งหนึ่ง</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?direct&}}
 
@@ -68,3 +68,5 @@ God said, "I promise I will never again curse the ground because of the evil thi
 God then made the first rainbow as a sign of his promise. Every time the rainbow appeared in the sky, God would remember what he promised and so would his people.
 
 //A Bible story from: Genesis 6-8//
+
+//เรื่องราวในพระคัมภีร์จาก: ปฐมกาล 6 - 8//
