@@ -1,55 +1,55 @@
 
 
-  - [[:th:obs:01|<font inherit/inherit;;#008000;;inherit>การทรงสร้าง</font>    ]]
-  - [[:th:obs|<font inherit/inherit;;#008000;;inherit>ความบาปเข้ามาในโลก</font>    ]]
-  - [[:th:obs:03|The Flood]] น้ำท่วมโลก
-  - [[:th:obs:04|God's Covenant with Abraham]] พันธสัญญาของพระเจ้ากับอับราฮัม
-  - [[:th:obs:05|The Son of Promise]] บุตรพันธสัญญา
-  - [[:th:obs:06|God Provides for Isaac]] พระเจ้าทรงจัดเตรียมสำหรับอิสอัค
-  - [[:th:obs:07|God Blesses Jacob]] พระเจ้าทรงอวยพรยาโคบ
-  - [[:th:obs:08|God Saves Joseph and His Family]] พระเจ้าทรงช่วยชีวิตโยเซฟและครอบครัว
-  - [[:th:obs:09|God Calls Moses]] การทรงเรียกโมเสส
-  - [[:th:obs:10|The Ten Plagues]] ภัยพิบัติ 10 ประการ
-  - [[:th:obs:11|The Passover]] พิธีปัสกา
-  - [[:th:obs:12|The Exodus]] อพยพ
-  - [[:th:obs:13|God's Covenant with Israel]] พันธสัญญาของพระเจ้ากับชนชาติอิสราเอล
-  - [[:th:obs:14|Wandering in the Wilderness]] การร่อนเร่ในถิ่นกันดาร
-  - [[:th:obs:15|The Promised Land]] แผ่นดินแห่งพันธสัญญา
-  - [[:th:obs:16|The Deliverers]]
-  - [[:th:obs:17|God's Covenant with David]] <font 14px line-height: 19px;/inherit;;#008000;;inherit>พันธสัญญาของพระเจ้ากับดาวิด</font>
-  - [[:th:obs:18|The Divided Kingdom]] อาณาจักรที่ถูกแบ่งแยก
-  - [[:th:obs:19|The Prophets]] ผู้เผยพระวจนะ
-  - [[:th:obs:20|The Exile and Return]] การถูกต้อนไปเป็นเชลยและการกลับมาจากการเป็นเชลย
-  - [[:th:obs:21|God Promises the Messiah]]
-  - [[:th:obs:22|The Birth of John]] การเกิดของยอห์น
-  - [[:th:obs:23|The Birth of Jesus]] การเกิดของพระเยซู
-  - [[:th:obs:24|John Baptizes Jesus]]
-  - [[:th:obs:25|Satan Tempts Jesus]]
-  - [[:th:obs:26|Jesus Starts His Ministry]] การเริ่มพระราชกิจของพระเยซู
-  - [[:th:obs:27|The Story of the Good Samaritan]]
-  - [[:th:obs:28|The Rich Young Ruler]]
-  - [[:th:obs:29|The Story of the Unmerciful Servant]]
-  - [[:th:obs:30|Jesus Feeds Five Thousand People]]
-  - [[:th:obs:31|Jesus Walks on Water]]
-  - [[:th:obs:32|Jesus Heals a Demon Possessed Man]]
-  - [[:th:obs:33|The Story of the Farmer]]
-  - [[:th:obs:34|Jesus Teaches Other Stories]]
-  - [[:th:obs:35|The Story of the Compassionate Father]]
-  - [[:th:obs:36|The Transfiguration]]
-  - [[:th:obs:37|Jesus Raises Lazarus from the Dead]]
-  - [[:th:obs:38|Jesus Is Betrayed]]
-  - [[:th:obs:39|Jesus Is Put on Trial]]
-  - [[:th:obs:40|Jesus Is Crucified]] พระเยซูถูกตรึงบนไม้กางเขน
-  - [[:th:obs:41|God Raises Jesus from the Dead]] พระเจ้าฟื้นคืนชีวิตพระเยซูจากความตาย
-  - [[:th:obs:42|Jesus Returns to Heaven]] พระเยซูกลับสู่สวรรค์
-  - [[:th:obs:43|The Church Begins]] การริ่เริมคริสตจักร
-  - [[:th:obs:44|Peter and John Heal a Beggar]]
-  - [[:th:obs:45|Philip and the Ethiopian Official]]
-  - [[:th:obs:46|Paul Becomes a Christian]]
-  - [[:th:obs:47|Paul and Silas in Philippi]]
-  - [[:th:obs:48|Jesus is the Promised Messiah]]
-  - [[:th:obs:49|God's New Covenant]] พันธสัญญาใหม่ของพระเจ้า
-  - [[:th:obs:50|Jesus Returns]] การกลับมาของพระเยซู
+  - [[:th:obs:01]]
+  - [[:th:obs:02]]
+  - [[:th:obs:03]]
+  - [[:th:obs:04]]
+  - [[:th:obs:05]]
+  - [[:th:obs:06]]
+  - [[:th:obs:07]]
+  - [[:th:obs:08]]
+  - [[:th:obs:09]]
+  - [[:th:obs:10]]
+  - [[:th:obs:11]]
+  - [[:th:obs:12]]
+  - [[:th:obs:13]]
+  - [[:th:obs:14]]
+  - [[:th:obs:15]]
+  - [[:th:obs:16]]
+  - [[:th:obs:17]]
+  - [[:th:obs:18]]
+  - [[:th:obs:19]]
+  - [[:th:obs:20]]
+  - [[:th:obs:21]]
+  - [[:th:obs:22]]
+  - [[:th:obs:23]]
+  - [[:th:obs:24]]
+  - [[:th:obs:25]]
+  - [[:th:obs:26]]
+  - [[:th:obs:27]]
+  - [[:th:obs:28]]
+  - [[:th:obs:29]]
+  - [[:th:obs:30]]
+  - [[:th:obs:31]]
+  - [[:th:obs:32]]
+  - [[:th:obs:33]]
+  - [[:th:obs:34]]
+  - [[:th:obs:35]]
+  - [[:th:obs:36]]
+  - [[:th:obs:37]]
+  - [[:th:obs:38]]
+  - [[:th:obs:39]]
+  - [[:th:obs:40]]
+  - [[:th:obs:41]]
+  - [[:th:obs:42]]
+  - [[:th:obs:43]]
+  - [[:th:obs:44]]
+  - [[:th:obs:45]]
+  - [[:th:obs:46]]
+  - [[:th:obs:47]]
+  - [[:th:obs:48]]
+  - [[:th:obs:49]]
+  - [[:th:obs:50]]
 
   * [[:th:obs:front-matter|Front Matter]]
   * [[:th:obs:back-matter|Back Matter]]
