@@ -1,63 +1,354 @@
-====== 28. The Rich Young Ruler ======
+====== 28.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg}}
-
-One day, a rich young ruler came up to Jesus and asked him, "Good teacher, what must I do to have eternal life?" Jesus said to him, "Why do you call me 'good'? There is only one who is good, and that is God. But if you want to have eternal life, obey God's laws."
+ผู้ปกครองหนุ่มผู้ร่ำรวย
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg}}
+  ======
 
-"Which ones do I need to obey?" he asked. Jesus replied, "Do not murder. Do not commit adultery. Do not steal. Do not lie. Honor your father and mother, and love your neighbor as you love yourself."
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?direct&}}
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg}}
-
-But the young man said, "I have obeyed all these laws ever since I was a boy. What do I still need to do in order to live forever?" Jesus looked at him and loved him.
+วันหนึ่งผู้ปกครองหนุ่มผู้ร่ำรวยหามาพระเยซูและถามพระองค์ว่า
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg}}
 
-Jesus answered, "If you want to be perfect, then go and sell everything you own and give the money to the poor, and you will have treasure in heaven. Then come and follow me."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg}}
-
-When the young man heard what Jesus said, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
+"
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg}}
-
-Then Jesus said to his disciples, "It is extremely hard for rich people to enter into the kingdom of God! Yes, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God."
+พระอาจารย์ผู้ประเสริฐ ผมจะทำยังไงเพื่อให้ได้มีชีวิตนิรันดร์
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg}}
 
-When the disciples heard what Jesus said, they were shocked and said, "Then who can be saved?"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg}}
-
-Jesus looked at the disciples and said, "With people this is impossible, but with God, all things are possible."
+"
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg}}
-
-Peter said to Jesus, "We have left everything and followed you. What will be our reward?"
+พระเยซูตอบชายคนนั้นว่า
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg}}
 
-Jesus answered, "Everyone who has left houses, brothers, sisters, father, mother, children, or property for my sake, will receive 100 times more and will also receive eternal life. But many who are first will be last, and many who are last will be first."
+"
 
-//A Bible story from: Matthew 19:16-30; Mark 10:17-31; Luke 18:18-30//
+
+
+ทำไมท่านเรียกข้าผู้ประเสริฐ มีผู้เดียวเท่านั้นที่ประเสริฐและผู้นั้นคือพระเจ้า แต่ถ้าท่านอยากมีชีวิตนิรันดร์ท่านต้องเชื่อฟังกฎของพระเจ้า
+
+
+
+
+"
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?direct&}}
+
+เขาถามพระเยซูว่า
+
+
+
+
+"
+
+
+
+กฎข้อไหนที่ผมต้องเชื่อฟังบ้างครับ
+
+
+
+
+"
+
+
+
+พระเยซูตอบว่า
+
+
+
+
+"
+
+
+
+อย่าฆ่าคน
+
+
+
+
+,
+
+
+
+อย่าคบชู้
+
+
+
+
+,
+
+
+
+อย่าขโมย
+
+
+
+
+,
+
+
+
+อย่าโกหก
+
+
+
+
+,
+
+
+
+ให้เกียรติพ่อแม่ และรักเพื่อนบ้านเหมือนรักตัวเอง
+
+
+
+
+"
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?direct&}}
+
+แต่ชายหนุ่มคนนั้นพูดว่า
+
+
+
+
+"
+
+
+
+ผมได้เชื่อฟังกฎทั้งหมดนั้นตั้งแต่ผมยังเป็นเด็กเล็กๆ แล้ว ผมยังต้องทำตามคำสั่งอะไรอีกเพื่อให้ได้มีชีวิตนิรันดร์อีกหรือ
+
+
+
+
+"
+
+
+
+พระเยซูมองดูเขาด้วยความรัก
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?direct&}}
+
+พระเยซูตอบว่า
+
+
+
+
+"
+
+
+
+ถ้าท่านอยากให้สมบูรณ์ทุกประการท่านต้องไปขายทุกสิ่งทุกอย่างที่ท่านมีและเอาเงินนั้นให้คนยากจนและท่านจะมีทรัพย์สมบัติในสวรรค์ จากนั้นจงตามเรามา
+
+
+
+
+"
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?direct&}}
+
+เมื่อชายหนุ่มได้ยินพระเยซูพูดอย่างนั้นเขาจึงรู้สึกเศร้าเพราะว่าเขารวยมากและไม่อยากให้ทรัพย์สมบัติของเขาแก่คนอื่น เขาจึงได้เดินจากพระเยซูไป
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?direct&}}
+
+จากนั้นพระเยซูได้บอกกับเหล่าสาวกของพระองค์ว่า
+
+
+
+
+"
+
+
+
+เป็นการยากจริงๆที่คนรวยจะได้เข้าไปในอาณาจักรของพระเจ้า
+
+
+
+
+!
+
+
+
+และการที่อูฐจะรอดรูเข็มก็ง่ายกว่าที่คนรวยจะได้เข้าไปในอาณาจักรของพระเจ้า
+
+
+
+
+"
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?direct&}}
+
+เมื่อเหล่าสาวกได้ยินพระเยซูบอกแบบนั้น พวกเขาก็ตกใจและพูดว่า
+
+
+
+
+"
+
+
+
+แล้วใครจะได้รับความรอดเล่า
+
+
+
+
+"
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?direct&}}
+
+พระเยซูมองไปที่เหล่าสาวกและพูดว่า
+
+
+
+
+"
+
+
+
+สำหรับมนุษย์แล้วสิ่งนี้เป็นไปไม่ได้แต่สำหรับพระเจ้าแล้วพระเจ้าทำได้ทุกสิ่ง
+
+
+
+
+"
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?direct&}}
+
+เปรโตบอกพระเยซูว่า
+
+
+
+
+"
+
+
+
+พวกเราละทิ้งทุกอย่างแล้วติดตามพระองค์มา แล้วพวกเราจะได้รับรางวัลอะไร
+
+
+
+
+"
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?direct&}}
+
+พระเยซูตอบว่า
+
+
+
+
+"
+
+
+
+ใครก็ตามที่ละทิ้งบ้านเรือนของตน
+
+
+
+
+,
+
+
+
+พี่น้อง
+
+
+
+
+,
+
+
+
+พ่อ
+
+
+
+
+,
+
+
+
+แม่
+
+
+
+
+,
+
+
+
+ลูกๆหรือทรัพย์สมบัติของเขาในนามของเรา เขาจะได้รับผลตอบแทนมากขึ้นเป็น
+
+
+
+
+100
+
+
+
+เท่าและจะได้รับชีวิตนิรันดร์ด้วย แต่ว่าคนต้นจะเปลี่ยนเป็นคนปลายและคนปลายจะกลายเป็นคนต้น
+
+
+
+
+"
+
+
+
+เรื่องเล่าจากพระคัมภีร์ มัทธิว
+
+
+
+
+19:16-30
+
+
+
+มาระโก
+
+
+
+
+10:17-31
+
+
+
+ลูกา
+
+
+
+
+18:18-30
 
 
