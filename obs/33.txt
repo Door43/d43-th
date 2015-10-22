@@ -1,57 +1,39 @@
-====== 33. The Story of the Farmer ======
+====== 33. คำอุปมาเรื่องชาวนาคนหนึ่ง ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-One day, Jesus was teaching a very large crowd of people near the shore of the lake. So many people came to hear him that Jesus got into a boat at the edge of the water in order to have enough space to speak to them. He sat in the boat and taught the people.
+อยู่มาวันหนึ่ง ในขณะที่พระเยซูได้กำลังสอนท่ามกลางฝูงชนมากมายที่ฝั่งทะเลสาบ ได้มีผู้คนมากมายหลั่งไหลเข้ามาเพื่อที่ฟังพระองค์ ดังนั้นพระเยซูได้ขึ้นไปบนเรือที่เทียบจอดอยู่ริมฝั่งน้ำเพื่อที่จะมีที่ว่างพอสำหรับที่จะพูดกับคนเหล่านั้น พระองค์นั่งในเรือลำนั้นและได้สอนพวกเขา
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
+พระเยซูได้เล่าเรื่องหนึ่งขึ้นมาว่า “มีชาวนาคนหนึ่งได้ออกไปหว่านเมล็ดพันธุ์ ในขณะที่เขาได้กระจายเมล็ดเหล่านั้นไปทั่ว มีบางเมล็ดตกลงทางเดินและนกทั้งหลายก็เก็บกินเสียทั้งหมด”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-Jesus told this story. "A farmer went out to plant some seed. As he was spreading the seeds by hand, some seeds happened to fall on the path, and the birds came and ate all of those seeds."
+“บางเมล็ดก็ตกลงไปในดินที่เป็นหินซึ่งมีปริมาณดินน้อย เมล็ดเหล่านั้นได้งอกอย่างรวดเร็วแต่รากของพวกมันหาได้หยั่งลุกเข้าไปในชั้นดินไม่ เมื่อดวงอาทิตย์ส่องแสงแรงจ้ามา พวกมันก็ร้อนและแห้งเหี่ยวตายไปหมด”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
+“บางเมล็ดก็ตกลงไปตามพุ่มหนาม เมล็ดเล่านั้นได้เติบโตขึ้นแต่กลับมีหนามขวางกั้นไว้ ดังนั้นต้นไม้ที่งอกออกจากเมล็ดที่ตกลงไปในพื้นหนามไม่สามารถผลิดอกออกผลได้เลย”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-"Other seeds fell on rocky ground, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died."
+“เมล็ดพันธุ์อื่นๆที่ตกลงไปในดินดี เมล็ดเหล่านี้ได้เติบโตออกดอกออกผล สามสิบเท่าบ้าง หกสิบเท่าบ้าง หรือแม้กระทั้ง หนึ่งร้อยเท่าบ้าง ใครมีหูก็จงฟังเอาเถิด”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
+เมื่อเหล่าสาวกของพระองค์ได้ฟังดังนั้นจึงฉงนยิ่งหนัก ดังนั้นพระเยซูได้อธิบายว่า “เมล็ดพืช คือพระคำของพระเจ้า ทางเดินก็คือคนที่ได้ฟังพระคำของพระเจ้าแต่ไม่เข้าใจเลยและมารซาตานก็ฉกฉวยไปเสีย”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-"Still other seeds fell among thorn bushes. Those seeds began to grow, but the thorns choked them out. So the plants that grew from the seeds in the thorny ground did not produce any grain."
+“ดินที่เป็นหินก็หมายถึงคนที่ได้ยินพระคำของพระเจ้าและรับด้วยใจยินดีแต่เขาประสบกับความยากลำบากและการข่มเหงเขาก็หนีไปเสีย”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
+“พื้นหนามก็หมายถึงคนที่ได้ยินพระคำของพระเจ้าและเมื่อเวลาผ่านไปเขาจะหลงไปกับโลก ความร่ำรวยและความพอใจในชีวิตนี้ ได้พรากเขาไปจากพระเจ้าเสีย ดังนั้นคำสอนที่ได้ยินมันไม่ได้เกิดผลเลย”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-"Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. He who has ears, let him hear!"
+“ดินดีก็หมายถึงคนที่ได้ยินพระคำของพระเจ้าและเชื่อในพระคำของพระองค์และมีชีวิตที่เกิดผล”
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
-
-This story confused the disciples. So Jesus explained, "The seed is the word of God. The path is a person who hears God's word, but does not understand it, and the devil takes the word away from him."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
-
-"The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or persecution, he falls away."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
-
-"The thorny ground is a person who hears God's word, but as time passes, the cares, riches, and pleasures of life choke out his love for God. As a result, the teaching he heard does not produce fruit."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
-
-"But the good soil is a person who hears the word of God, believes it, and produces fruit."
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
-
-
+//เรื่องเล่าในพระคัมภีร์ จากพระธรรมมัทธิว13:1-8, 18-23; มาระโก 4:1-8, 13-20; ลูกา 8:4-15//
