@@ -1,63 +1,155 @@
-====== 23. The Birth of Jesus ======
+23.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg}}
-
-Mary was engaged to a righteous man named Joseph. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame Mary, so he planned to quietly divorce her. Before he could do that, an angel came and spoke to him in a dream.
+การกำเนิดของพระเยซู
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg}}
-
-The angel said, "Joseph, do not be afraid to take Mary as your wife. The baby that is in her is from the Holy Spirit. She will give birth to a son. Name him Jesus (which means, 'Yahweh saves'), because he will save the people from their sins."
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg}}
 
-So Joseph married Mary and took her home as his wife, but he did not sleep with her until she had given birth.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg}}
-
-When the time was near for Mary to give birth, the Roman government told everyone to go for a census to the town where their ancestors had lived. Joseph and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
+มารีย์ได้หมั้นหมายกับชายชอบธรรมคนหนึ่ง ชื่อว่า โยเซฟ เมื่อเขารู้ว่ามารีย์ตั้งครรห์ เขารู้ว่าทารกไม่ใช่ลูกของเขา เขาไม่ต้องการให้มารีย์ต้องอับอาย ดังนั้นเขาจึงวางแผนที่จะถอนหมั้นอย่างเงียบๆ กับมารีย์ ก่อนที่เขาจะกระทำอย่างนั้น ฑูตสวรรค์ได้มาบอกกับเขาในความฝัน
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg}}
-
-When they arrived in Bethlehem, there was no place to stay. The only room they could find was a place where animals stayed. The baby was born there and his mother laid him in a feeding trough, since they did not have a bed for him. They named him Jesus.
 
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg}}
+ฑูตสวรรค์กล่าวว่า
 
-That night, there were some shepherds in a nearby field guarding their flocks. Suddenly, a shining angel appeared to them, and they were terrified. The angel said, "Do not be afraid, because I have some good news for you. The Messiah, the Master, has been born in Bethlehem!"
+ "
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg}}
-
-"Go search for the baby, and you will find him wrapped in pieces of cloth and lying in a feeding trough." Suddenly, the skies were filled with angels praising God, saying, "Glory to God in heaven and peace on earth to the people he favors!"
+ โยเซฟอย่ากลัวเลยที่จะรับมารีย์มาเป็นภรรยาของเจ้า บุตรของเธอนั้นมาจากพระวิญญาณบริสุทธิ์ เธอจะให้กำเนิดบุตรชายคนหนึ่งให้ตั้งชื่อเขาว่า เยซู
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg}}
+ (
 
-The shepherds soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them. They were very excited. Mary was very happy, too. The shepherds returned to the fields where their sheep were, praising God for all they had heard and seen.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg}}
-
-Sometime later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new king of the Jews had been born. So, they traveled a great distance to see this king. They came to Bethlehem and found the house where Jesus and his parents were staying.
+ หมายความว่า
 
 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg}}
+ "
 
-When the wise men saw Jesus with his mother, they bowed down and worshiped him. They gave Jesus expensive gifts. Then they returned home.
-
-//A Bible story from: Matthew 1; Luke 2//
+ พระผู้ช่วยให้รอด
 
 
+
+ ")
+
+ เพราะพระองค์จะทรงช่วยมนุษย์ให้รอดจากความบาปของพวกเขา
+
+
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?direct&}}
+
+ดังนั้นโยเซฟจึงแต่งงานกับมารีย์และรับเธอเข้าบ้านเพื่อมาเป็นภรรยาของเขา แต่เขาไม่ได้หลับนอนกับเธอ จนกระทั้งเธอให้กำเนิดบุตร
+
+ (
+
+ คลอด
+
+
+
+ )
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?direct&}}
+
+เมื่อใกล้กำหนดที่มารีย์จะคลอด ผู้ปกครองโรมันได้ประกาศให้ทุกคนไปลงทะเบียนสำมะโนครัวยังบ้านเกิดที่บรรพบุรุษของพวกเขาเคยอาศัยอยู่ โยเซฟและมารีย์ได้เดินทางไกลจากที่พวกเขาอาศัยอยู่ในนาซาเร็ธไปยังเบธเลเฮม เพราะดาวิดบรรพบุรุษของพวกเขาบ้านเกิดนั้นอยู่ที่เบธเลเฮม
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?direct&}}
+
+เมื่อพวกเขามาถึงเบธเลเฮม ที่นั้นไม่มีสถานที่พักให้กับพวกเขา ที่เดียวที่พวกเขาสามารถหาได้คือที่สัตว์อาศัยอยู่ พระบุตรก็ได้กำเนิดที่นั้นและมารดาของพระองค์ก็วางพระองค์ไว้ในรางหญ้าเลี้ยงสัตว์เพราะไม่มีที่นอนสำหรับพระองค์ พวกเขาตั้งชื่อพระองค์ว่า เยซู
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?direct&}}
+
+ในคืนนั้นมีคนเลี้ยงแกะเฝ้าฝูงแกะของพวกเขาอยู่ในทุ่งหญ้า ในทันใดนั้นเองฑูตสวรรค์ซึ่งเต็มไปด้วยความสว่างมาปรากฎแก่พวกเขา พวกเขาก็หวาดกลัวยิ่งนัก ฑูตสวรรค์จึงกล่าวว่า
+
+ "
+
+ อย่ากลัวเลยเพราะเรานำข่าวดีมายังท่านทั้งหลาย พระเมสิยาห์ จอมเจ้านาย ได้มาบังเกิดแล้วที่เบธเลเฮม
+
+
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg?direct&}}
+
+" จงไปหาพระบุตรและพวกเจ้าจะพบพระองค์ถูกพันด้วยผ้าและวางไว้ในรางหญ้าเลี้ยงสัตว์
+
+
+
+ "
+
+ ทันใดนั้นเองท้องฟ้าก็เต็มไปด้วยเหล่าฑูตสวรรค์สรรเสริญพระเจ้าว่า
+
+
+
+ "
+
+ พระสิริจงมีแด่พระเจ้าในสวรรค์ ส่วนแผ่นดินโลกสันติสุขจงมีแก่ผู้ที่พระองค์โปรดปราน
+
+
+
+ "
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?direct&}}
+
+ไม่นานเหล่าคนเลี้ยงแกะก็มาถึงสถานที่ที่พระเยซูอยู่ และพวกเขาพบพระองค์วางไว้ในรางหญ้าเลี้ยงสัตว์ เป็นไปตามที่ฑูตสวรรค์ได้บอกพวกเขาไว้ พวกเขาจึงตื่นเต้นมาก มารีย์ก็มีความสุขด้วยเช่นกัน เหล่าคนเลี้ยงแกะได้กลับไปยังทุ่งหญ้าเลี้ยงแกะของพวกเขาแล้วสรรเสริญพระเจ้าสำหรับทุกอย่างที่พวกเขาได้ยินและได้เห็น
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?direct&}}
+
+ในเวลาต่อมาเหล่าโหราจารย์จากเมืองไกลทางทิศตะวันออกได้เห็นดาวประหลาดบนท้องฟ้า พวกเขาจึงรู้แล้วว่ามันหมายถึงกษัตริย์องชาวยิวได้มาบังเกิดแล้ว พวกเขาจึงได้รู้แล้วว่ามันหมายถึงกษัตริย์ของชาวยิวได้มาบังเกิดแล้ว พวกเขาได้เดินทางมาไกลมากเพื่อมาพบกษัตริย์องค์นี้ เมื่อพวกเขามาถึงเบธเลเฮมจึงหาบ้านหลังที่พระเยซูและบิดามารดาของพระองค์พักอาศัยอยู่
+
+
+
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?direct&}}
+
+เมื่อเหล่าโหราจารย์ได้พบพระเยซูกับมารดาของพระองค์ พวกเขาจึงก้มกราบลงและนมัสการพระองค์ พวกเขานำของขวัญที่มีราคาแพงมาให้พระเยซูแล้วพวกเขาก็เดินทางกลับบ้านไป
+
+
+
+
+
+//เรื่องราวจากพระคัมภีร์ในพระธรรมมัทธิว
+
+ 1 ;
+
+ ลูกา
+
+
+
+ 2
+
+
+
+ //
