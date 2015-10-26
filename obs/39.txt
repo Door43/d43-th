@@ -1,78 +1,51 @@
-====== 39. Jesus Is Put on Trial ======
+====== 39. พระเยซูได้รับการดำเนินคดีความ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?direct&}}
 
-It was now the middle of the night. The soldiers led Jesus to the house of the high priest in order for the high priest to question him. Peter followed far behind them. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
+ในเวลากลางดึกของคืนนั้น บรรดาทหารได้นำพระเยซูไปยังบ้านของมหาปุโรหิตเพื่อให้มหาปุโรหิตได้ไตร่สวนพระองค์ เปโตรได้ติดตามพระองค์อย่างห่างๆ เมื่อพระเยซูได้นำมายังบ้านหลังดังกล่าวเปโตรได้อยู่ภายนอกบ้านนั้นและได้ผิงไฟให้ร่างกายของตนเกิดความอบอุ่น
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?direct&}}
 
+ภายในบ้านหลังนั้น บรรดาผู้นำคนยิวได้ทำการไตร่สวนคดีความกับพระองค์ พวกเขาได้นำบรรดาพยานเท็จเพื่อกล่าวหาพระองค์ อย่างไรก็ตามข้อกล่าวหาของเขาทั้งหลายต่างขัดแย้งกันจึงไม่สามารถเอาผิดกับพระองค์ได้ดังนั้นบรรดาผู้นำชาวยิวจึงไม่สามารถพิสูจน์ว่าพระองค์ได้ผิดจริงและพระเยซูไม่ได้ตรัสอะไรเลย
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?direct&}}
 
-Inside the house, the Jewish leaders put Jesus on trial. They brought many false witnesses who lied about him. However, their statements did not agree with each other, so the Jewish leaders could not prove he was guilty of anything. Jesus did not say anything.
+ในที่สุด มหาปุโรหิตได้มองไปที่พระเยซูและกล่าวว่า "บอกพวกเรามาซะดีๆ เจ้าคือพระเมสสิยาห์บุตรของพระเจ้าผู้ทรงพระทรงอยู่ใช่หรือไม่"
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?direct&}}
 
+พระเยซูตรัสว่า"เราเป็น และท่านทั้งหลายจะเป็นเรานั่งบนบัลังค์กับพระเจ้าและลงมาจากฟ้าสวรรค์" มหาปุโรหิตได้ฉีกฉลองพระองค์ด้วยความโกรธเกรี้ยวและตะโกนต่อหน้าบรรดาผู้นำทางศาสนาต่างๆว่า"พวกเราไม่จำเป็นต้องมีพยานอีกต่อไป ท่านทั้งหลายได้ยินเขากล่าวว่าเขาเองเป็นบุตรของพระเจ้า ท่านทั้งหลายจะตัดสินอย่างไร"
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?direct&}}
 
-Finally, the high priest looked directly at Jesus and said, "Tell us, are you the Messiah, the Son of the living God?"
+เล่าบรรดาผู้นำพวกยิวทั้งหลายต่างตอบกับมหาปุโรหิตว่า"เขาสมควรตาย"ดังนั้นพวกเขาทั้งหลายได้ปิดตาของพระองค์ ถ่มน้ำลายใส่พระองค์ ตีพระองค์ และเยาะเย้ยพระองค์ต่างๆนานา
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?direct&}}
 
+ในขณะที่เปโตรกำลังรออยู่ภายนอกบ้านหลังนั้น ทาสสาวผู้หนึ่งเห็นเขาและพูดกับเขาว่า "เจ้าได้อยู่กับเยซูด้วย" เปโตรได้ปฏิเสธ ต่อมาหญิงสาวอีกผู้หนึ่งพูดเช่นเดียวกันกับทาสสาวคนก่อน และเปโตรได้ปฏิเสธได้ปฏิเสธอีกครั้งหนึ่ง ในที่สุดได้มีคนหนึ่งพูดว่า"พวกเรารู้ว่าเจ้าได้อยู่กับเยซูเพราะเจ้าทั้งสองมาจากกาลิลี"
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg?direct&}}
 
-Jesus said, "I am, and you will see me seated with God and coming from heaven." The high priest tore his clothes in anger and shouted to the other religious leaders, "We do not need any more witnesses! You have heard him say that he is the Son of God. What is your judgment?"
+แล้วเปโตรได้สาบานขึ้นว่า"ขอพระเจ้าสาปแช่งข้าถ้าข้าอยู่กับชายผู้นี้"ทันใดนั้นไก่ได้ขันถึงสามครั้งและพระเยซูได้หันพระพักตร์และจ้องที่เปโตร
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?direct&}}
 
+เปโตรเดินหนีไปและร่ำไห้ด้วยความข่มขื่น ในเวลาเดียวกัน ยูดาสคนทรยศเห็นบรรดาผู้นำคนยิวได้ตัดสินพระเยซูถึงตาย ยูดาสถึงกับเต็มไปด้วยความเศร้าสลดยิ่งนักและเดินจากไปหลังจากนั้นเขาได้ฆ่าตัวตาย
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?direct&}}
 
-The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and mocked him.
+เช้ามืดในวันรุ่งขึ้น บรรดาผู้นำชาวยิวได้นำพระเยซูไปหาปิลาตเทศมนตรีเมืองโรมันอยู่นั้น พวกเขาได้หวังว่าปิลาตจะเอาผิดกับพระเยซูและตัดสินพระองค์ถึงแก่ความตาย ปิลาตได้สอบถามพระเยซูว่า "ท่านเป็นกษัตริย์ของพวกยิวเหรอ"
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?direct&}}
 
+พระเยซูได้ตอบว่า "ตามท่านกล่าวมานั้น แต่อาณาจักรของเราจะไม่ตั้งบนแผ่นดินโลก ถ้ามันจะอยู่ที่นี่ บรรดาผู้รับใช้ของเราจะต่อสู้เผื่อเรา เราเข้ามาในโลกเพื่อบอกความจริงเรื่องพระเจ้า ทุกคนที่รักความจริงจะฟังเรา" ปิลาตได้กล่าวว่า"ความจริงนั้นคืออะไรหรือ"
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg}}
+หลังจากที่พูดกับพระเยซูอยู่นั้น ปิลาตได้เดินออกไปหาฝูงชนและกล่าวว่า"ข้าพเจ้าหาความผิดในตัวชายผู้นี้ได้ไม่" แต่บรรดาผู้นำชาวยิวและฝูงชนต่างตะโกนขึ้นว่า"ตรึงเขาเสีย"ปิลาตได้ตอบกลับ"เขาไม่มีความผิดอะไร"แต่พวกเขาทั้งหลายได้ตะโกนดังขึ้นอีก ดังนั้นปิลาตได้กล่าวขึ้นเป็นครั้งที่สามว่า"เขาไม่มีความผิดอะไรเลย"
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?direct&}}
 
-As Peter was waiting outside the house, a servant girl saw him and said to him, "You also were with Jesus!" Peter denied it. Later, another girl said the same thing, and Peter denied it again. Finally, the people said, "We know that you were with Jesus because you both are from Galilee."
+ปิลาตได้เกรงกลัวบรรดาฝูงชนนั้นว่าเขาจะก่อการจราจลดังนั้นเขาได้เห็นด้วยกับทหารทั้งหลายที่จะตรึงพระองค์เสีย เหล่าทหารโรมันได้เฆี่ยนพระองค์และใส่ฉลองพระองค์สีม่วงและมงกุฎหนามกับพระองค์ แล้วเขาทั้งหลายได้เยาะเย้ยพระองค์ว่า"ดูนี่สิ กษัตริย์ของพวกยิว"
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg}}
-
-Then Peter vowed, saying, "May God curse me if I know this man!" Immediately, a rooster crowed, and Jesus turned around and looked at Peter.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg}}
-
-Peter went away and cried bitterly. Meanwhile, Judas, the betrayer, saw that the Jewish leaders had condemned Jesus to die. Judas became full of sorrow and went away and killed himself.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg}}
-
-Early the next morning, the Jewish leaders brought Jesus to Pilate, the Roman governor. They hoped that Pilate would condemn Jesus as guilty and sentence him to be killed. Pilate asked Jesus, "Are you the king of the Jews?"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg}}
-
-Jesus answered, "You have said so, but my kingdom is not an earthly kingdom. If it were, my servants would fight for me. I have come to earth to tell the truth about God. Everyone who loves the truth listens to me." Pilate said, "What is truth?"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg}}
-
-After speaking with Jesus, Pilate went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not guilty." But they shouted even louder. Then Pilate said a third time, "He is not guilty!"
-
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg}}
-
-
-Pilate became afraid that the crowd would begin to riot, so he agreed to have his soldiers crucify Jesus. The Roman soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
-
-
-//A Bible story from: Matthew 26:57-27:26; Mark 14:53-15:15; Luke 22:54-23:25; John 18:12-19:16// 
+//เรื่องราวจากพระคัมภีร์จากพระธรรมมัทธิว 26:57-27:26; มาระโก 14:53-15:15; ลูกา 22:54-23:25; ยอห์น 18:12-19:16//
