@@ -1,0 +1,20 @@
+====== Ashkelon ======
+
+===== Facts: =====
+
+In biblical times, Ashkelon was Philistine city near the Mediteranean coast.
+
+  * The city exists today in Israel with the spelling Ashqelon.
+  * Joshua was unable to take this seacoast city from the Philstines.
+
+(Translation suggestions: [[:th:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>ashkelon&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft jdg01 ktlink}}

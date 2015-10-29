@@ -1,0 +1,22 @@
+====== Ekron ======
+
+===== Facts: =====
+
+Ekron was the northernmost city of the Philistines, located nine miles from the Mediterranean Sea.
+
+  * The ark was taken there after being captured by the Philistines, but soon returned to Israel after calamities resulted there.
+  * bullet
+
+(Translation suggestions: [[:th:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>ekron&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft jdg01 ktlink}}

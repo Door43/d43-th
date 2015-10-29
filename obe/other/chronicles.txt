@@ -1,0 +1,20 @@
+====== chronicles ======
+
+===== Definition: =====
+
+A chroicle is a written record of events over a period of time.
+
+  * bullet
+  * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>chronicles&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft Neh12 ktlink}}
