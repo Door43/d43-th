@@ -1,11 +1,10 @@
-====== Complete list of Important Terms ======
+====== Complete List of Important Terms - Thai ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:th:obe:kt:home|Key Terms]]
-  * [[:th:obe:other:home|Other Terms]]
-  * [[:th:bible:admin-reports:obe-admin:obe-reject]]
-  * [[:th:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
-==== All terms from both lists: ====
+  * [[:th:obe:kt:home]]
+  * [[:th:obe:other:home]]
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+==== All Important Terms: ====
+
+<nspages th:obe -r -title -exclude:home -textPages="">
