@@ -1,13 +1,54 @@
-
-----
-
 **Door43**
 
-  * [[th:home|Door43 (th)]]
+  * [[th:home|Door43 (Thai)]]
+
+**Help**
+
+  * [[:th:ta|translationAcademy]]
+  * [[:th:get-started|How to Get Started]]
+  * [[:th:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[th:obs|Open Bible Stories (th)]]
+  *  [[:th:obs|Open Bible Stories]]
+      * [[:th:obs:notes|translationNotes]]
+      * [[:th:obs:notes:questions:home|translationQuestions]]
+      * [[:th:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:th:bible:intro|Bible (Thai)]]
+      * [[:th:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:th:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:th:bible:notes:home|translationNotes]]
+      * [[:th:bible:questions:comprehension:home|translationQuestions]]
+      * [[:th:obe:home|translationWords]]
+  * [[:th:ta|translationAcademy ]]
+      * [[:th:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:th:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:th:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:th:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:th:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:th:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:th:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:th:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
@@ -19,8 +60,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/th|Ethnologue data]]
-
-**Resources**
-
-  * [[th:obs|Open Bible Stories (th)]]
-
