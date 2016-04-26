@@ -1,10 +1,10 @@
-====== Complete List of Important Terms - Thai ======
+====== Complete List of translationWords- Thai ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:th:obe:kt:home]]
-  * [[:th:obe:other:home]]
+  * [[:th:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:th:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+==== All Terms in the OBE: ====
 
 <nspages th:obe -r -title -exclude:home -textPages="">
