@@ -1,6 +1,18 @@
 
 ----
 
+**Help**
+
+  * [[:en:obs:help|Open Bible Stories Help]]
+  * [[:en:ta:intro:handbook|translationAcademy Handbook]]
+  * [[en:obs:notes]]
+
+**Open Bible Stories**
+
+{{page>th:obs:stories}}
+
+~~NOCACHE~~
+
 **Door43**
 
   * [[th:home|Door43 (th)]]
@@ -9,18 +21,11 @@
 
   * [[th:obs|Open Bible Stories (th)]]
 
-**Downloads**
-
-All content for this namespace is available in the [[https://github.com/Door43/d43-th|d43-th repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-th/archive/master.zip|d43-th.zip]]
-
-**Recent Changes**
-{{changes>ns = th}}
 
 **Language Information**
 
 [[http://www.ethnologue.com/language/th|Ethnologue data]]
 
-**Resources**
+**Downloads**
 
-  * [[th:obs|Open Bible Stories (th)]]
-
+All content for this namespace is available in the [[https://github.com/Door43/d43-th|d43-th repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-th/archive/master.zip|d43-th.zip]]
